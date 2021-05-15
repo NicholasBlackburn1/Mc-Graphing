@@ -1,4 +1,4 @@
-# MC-Graphing-lib 
+#MC-Graphing-lib 
 
 *An minecraft lib for making beutifull graphs*
 
