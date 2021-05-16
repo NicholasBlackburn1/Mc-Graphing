@@ -22,6 +22,7 @@ public class Graphing {
     }
     public static void setup(final FMLCommonSetupEvent event) {
        LOGGER.warn("Hewwo, Graphing is setting up");
+        
     }
 
     public static void doClientStuff(final FMLClientSetupEvent event) { }

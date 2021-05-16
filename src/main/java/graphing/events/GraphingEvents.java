@@ -12,5 +12,6 @@ public class GraphingEvents {
     @SubscribeEvent
     public void RegisterEvents(){
         FMLJavaModLoadingContext.get().getModEventBus().addListener(Graphing::setup);
+
     }
 }
