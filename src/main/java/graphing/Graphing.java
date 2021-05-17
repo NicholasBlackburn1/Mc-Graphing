@@ -1,5 +1,7 @@
 package graphing;
 
+import com.google.common.graph.Graphs;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
