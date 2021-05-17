@@ -17,8 +17,8 @@ public class GraphingData {
     private Vector2f vector2d;
     private static ArrayList <Vector2f> graphPoints;
 
-    // converts x and y Doubles into the Vector 2f data set
-    public void dataVertex(Double x, Double y){
+
+    public GraphingData(Double x,Double y){
         this.vector2d = new Vector2f(x.floatValue(), y.floatValue());
     }
 
